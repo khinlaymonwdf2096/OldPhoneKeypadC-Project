@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0FOFC5LuRCie/W64ZZHwtZRXAkAnlDpqWTUzO3KNgx/s11/Fv6UwK9ZaNC9AddK4/FJpSSOex8b+UH3I6W6fA==",
+  "success": true,
+  "projectFilePath": "/Users/laymon/KLM/Projects/OldPhoneKeypadProject/OldPhoneKeypadProject/OldPhoneKeypadProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/laymon/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/laymon/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/laymon/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

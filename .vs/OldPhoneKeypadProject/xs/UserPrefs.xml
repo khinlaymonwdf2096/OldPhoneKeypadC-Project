@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9B54F658-3EAE-453F-B398-2BCC047A6183}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/laymon/KLM/Projects/OldPhoneKeypadProject/OldPhoneKeypadProject/Program.cs" relfile="OldPhoneKeypadProject/Program.cs" line="33" column="1" />
+      <Breakpoint file="/Users/laymon/KLM/Projects/OldPhoneKeypadProject/OldPhoneKeypadProject/Program.cs" relfile="OldPhoneKeypadProject/Program.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OldPhoneKeypadProject/Program.cs">
+    <Files>
+      <File FileName="OldPhoneKeypadProject/Program.cs" Line="586" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OldPhoneKeypadProject" expanded="True">
+            <Node name="OldPhoneKeypadProject" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OldPhoneKeypadProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
